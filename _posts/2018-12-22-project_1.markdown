@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "PROJECT 1!!!! "
+date:       2018-12-22 23:52:38 +0000
+permalink:  project_1
+---
+
+
+K... I just finished project 1 of module 1 in the data science course. My mind feels like mush. There was a sleepless night, some mini panic attacks, and moments where I needed to be talked off the ledge by my instructors and peers alike. 
+
+
+For our first project, we were given a housing data set and asked to build a model predicting housing prices using variables and a data set given to us including features of houses (square footage, etc.) that had been sold already. 
+I started the project kind of confident that everything would be smooth, towards the middle I freaked out a lot because I realized how little I knew even though I thought I had already crammed so much into my brain, and by the end, I felt like I had more questions than answers (in a good way) and I am happy to report that I am even more excited to keep cramming stuff in this brain of mine. 
+
+More to come!!! 
+
+
